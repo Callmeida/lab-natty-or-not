@@ -10,6 +10,7 @@ Apliquei conceitos de estrutura na escrita de script mesmo usando linguagem natu
 <summary>
 🤖 Tecnologias Utilizadas
 </summary>
+API's
   
 <img src="https://img.shields.io/badge/Microsoft Copilot-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> Geração de imagem por script - via Copilot. (https://copilot.microsoft.com/)
  
@@ -26,28 +27,28 @@ Apliquei conceitos de estrutura na escrita de script mesmo usando linguagem natu
 
 ## Produto resultado de aplicação de varias instancias de IA.
 
-## Geração de imagem por script - via Copilot. (https://copilot.microsoft.com/)
+### - Geração de imagem por script - via Copilot. (https://copilot.microsoft.com/)
 #### Prompt criado para imagem:
-Create a 3D realistic illustration of an animated programmer character, fit body, white Brazilian, voluminous black hair, small beard. casually seated on a social media block with the "LinkedIn" logo. The character is in their 30s, wearing rectangular black prescription glasses, and must wear casual modern clothing such as a basic, super white t-shirt, skater shoes, and brown pants. The background of the image is a social media profile page with the username "Cesar" and a profile picture that matches the animated character.
+-Create a 3D realistic illustration of an animated programmer character, fit body, white Brazilian, voluminous black hair, small beard. casually seated on a social media block with the "LinkedIn" logo. The character is in their 30s, wearing rectangular black prescription glasses, and must wear casual modern clothing such as a basic, super white t-shirt, skater shoes, and brown pants. The background of the image is a social media profile page with the username "Cesar" and a profile picture that matches the animated character.
 
-## Geração de voz via texto TTS (text-to-speech) - TTSopenAI (https://ttsopenai.com/)
+### - Geração de voz via texto TTS (text-to-speech) - TTSopenAI (https://ttsopenai.com/)
 #### texto base:
-Usei o copilot, para criar um avatar com características minimamente próximas ao objetivo que sou eu no caso. 
+-Usei o copilot, para criar um avatar com características minimamente próximas ao objetivo que sou eu no caso. 
 já digo que quanto mais assertivo o resultado esperado, maior será o numero de informações que deve entregar. quanto menor o numero de dados para a IA, mais "criativa" por conta da IA será. O uso de linguagem natural é bem aceitado pelas plataformas, Dê preferencia a lingua inglesa, por conta da maior quantidade de conteudo usado para o treinamento das IA. Podemos usar nosso idioma, muitas plataformas fazer a tradução para o idioma de sua base mas aí podem acontecer os erros de contexto e alterar o resultado.
 
-## Geração de animação de avatar unindo imagem e audio - D-ID (www.d-id.com/)
-#### API é automatizada, sendo necessario somente carregar os arquivos que serão utilizados para compor o video.
+### - Geração de animação de avatar unindo imagem e audio - D-ID (www.d-id.com/)
+#### - API é automatizada, sendo necessario somente carregar os arquivos que serão utilizados para compor o video.
 
 </details>
 
 <details>
 <summary>
-🚀 Resultados
+🚀 Resultado
 </summary>
-## Demonstração do Projeto
 
+[Clique aqui para assistir ao vídeo](https://www.youtube.com/embed/aGRNlgJqeDc)
 
- <iframe width="916" height="515" src="https://www.youtube.com/embed/aGRNlgJqeDc" title="Avatar IA - Multi API" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="https://i.ytimg.com/vi/aGRNlgJqeDc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgALQBYoCDAgAEAEYVyBhKGUwDw==&rs=AOn4CLAp5lFezZhp8lYdA8A04uHHlPVCTQ"  width="500" height="250" />
 
 </details>
 
@@ -57,7 +58,7 @@ já digo que quanto mais assertivo o resultado esperado, maior será o numero de
 #### Sobre mim:
 <details>
 <summary>
-  * Meus contatos professional e mídia link:
+  Meus contatos: professional e mídia
 </summary>
   
 - [ ] [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:super.zinha@gmail.com)
