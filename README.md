@@ -46,17 +46,13 @@ já digo que quanto mais assertivo o resultado esperado, maior será o numero de
 </summary>
 ## Demonstração do Projeto
 
-[![Imagem do vídeo no YouTube](https://img.youtube.com/vi/aGRNlgJqeDc?si=2B5dQpLPKKVDv-Ai/0.jpg)](https://www.youtube.com/watch?v=aGRNlgJqeDc?si=2B5dQpLPKKVDv-Ai)
 
-Para uma demonstração mais detalhada, assista ao vídeo abaixo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seu_id_do_video" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="916" height="515" src="https://www.youtube.com/embed/aGRNlgJqeDc" title="Avatar IA - Multi API" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
 ## 💭 Reflexão
-Mesmo tendo toda a potencia de IA uma ia ao seu favor, a necessidade do conhecimento para saber o que pedir por meio de um script muito bem estruturado, buscar informações, e sempre validar as respostas obtidas, é muito importante para acertividade nos resultados e códigos.
-
+"Apesar do potencial da IA, a necessidade de um script bem estruturado e a busca por informações precisas, sempre validando os resultados, demonstram a importância do conhecimento humano para garantir a eficácia da IA. A combinação de conhecimento humano e inteligência artificial é fundamental para obter resultados precisos e códigos eficientes."
 
 #### Sobre mim:
 <details>
